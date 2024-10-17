@@ -1,1 +1,1 @@
-                                                                              <h1>      Rule Engine Application for Eligibility Determination    <h1>
+                                                                Rule Engine Application for Eligibility Determination    
